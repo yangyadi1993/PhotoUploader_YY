@@ -1,4 +1,7 @@
 # PhotoUploader_YY
 ## Installation
-`pip install`
+```
+pip install
+```
+
 Photo upload web application
