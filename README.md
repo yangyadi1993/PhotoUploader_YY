@@ -14,8 +14,8 @@ This application is using Django framework with Python 3.
 pip install django-braces
 ```
 
-
-6. Under app/ create models and migrate.
+## Preparation
+Under app/ create models and migrate.
 
 ```
 python manage.py makemigrations file_upload
@@ -23,7 +23,7 @@ python manage.py migrate
 ```
 
 
-7. Run the server
+Run the server
 
 
 ```
