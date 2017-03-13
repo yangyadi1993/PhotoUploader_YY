@@ -30,5 +30,8 @@ Run the server
 python manage.py runserver
 ```
 
+## Visit web application
+Go to http://127.0.0.1:8000/file_upload
 
-Photo upload web application
+## Reference
+I used Bootstrap and DropzoneJS library.
