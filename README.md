@@ -9,16 +9,26 @@ This application is using Django framework with Python 3.
 4. Clone the django project to the virtual environment.
 
 5. Install the relevant packages.
+
 ```
 pip install django-braces
 ```
+
+
 6. Under app/ create models and migrate.
+
 ```
 python manage.py makemigrations file_upload
 python manage.py migrate
 ```
+
+
 7. Run the server
+
+
 ```
 python manage.py runserver
 ```
+
+
 Photo upload web application
